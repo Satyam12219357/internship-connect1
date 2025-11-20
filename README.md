@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your PM intership Portal
 
 ## Project info
 
@@ -8,9 +8,9 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/78f84d19-1302-48ab-bb57-7f65da74b207) and start prompting.
+
+Simply visit the [PM intership Portal](https://lovable.dev/projects/78f84d19-1302-48ab-bb57-7f65da74b207) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -62,9 +62,8 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/78f84d19-1302-48ab-bb57-7f65da74b207) and click on Share -> Publish.
+Simply open(https://lovable.dev/projects/78f84d19-1302-48ab-bb57-7f65da74b207) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
 
 Yes, you can!
 
