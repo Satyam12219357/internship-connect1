@@ -8,19 +8,13 @@
 
 There are several ways of editing your application.
 
-
-
-Simply visit the [PM intership Portal](https://lovable.dev/projects/78f84d19-1302-48ab-bb57-7f65da74b207) and start prompting.
-
 Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+The only requirement is having Node.js & npm installed - 
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -69,4 +63,4 @@ Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
