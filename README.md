@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/78f84d19-1302-48ab-bb57-7f65da74b207
+**URL**: https://internship-connect1.vercel.app/
 
 ## How can I edit this code?
 
@@ -56,7 +56,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open(https://lovable.dev/projects/78f84d19-1302-48ab-bb57-7f65da74b207) and click on Share -> Publish.
+Simply open(https://internship-connect1.vercel.app/) and click on Share -> Publish.
 
 
 Yes, you can!
